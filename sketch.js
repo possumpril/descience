@@ -31,7 +31,8 @@ function preload() {
 }
 
 function setup() {
-    createCanvas(600, 900);
+    //createCanvas(600, 900);
+    createCanvas(595, 842);  
     colorMode(HSB, 360, 100, 100, 100);
     background(0, 0, 11, 100);
     textFont(font);
